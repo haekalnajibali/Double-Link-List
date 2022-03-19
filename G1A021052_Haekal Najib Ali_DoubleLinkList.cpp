@@ -1,5 +1,5 @@
-//MIqbalNasmiMakarim
-//G1A021094
+//Haekal Najib Ali
+//G1A021052
 //Informatika B 21
 //Double Linked List 
 
